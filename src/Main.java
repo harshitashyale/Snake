@@ -11,6 +11,7 @@ public class Main {
 		f1.setTitle("Snake");
 		f1.setSize(300,300);
 		f1.setVisible(true);
+		//This is a comment
 		f1.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);             
 
 	}
